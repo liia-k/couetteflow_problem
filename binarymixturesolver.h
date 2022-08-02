@@ -1,0 +1,8 @@
+#ifndef BINARYMIXTURESOLVER_H
+#define BINARYMIXTURESOLVER_H
+
+#include <transportcoeff1t.h>
+
+
+
+#endif // BINARYMIXTUREABSTRACTSOLVER_H
